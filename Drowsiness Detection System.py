@@ -10,8 +10,8 @@ import smtplib
 def euclidean_dist(ptA, ptB):
     return np.linalg.norm(ptA - ptB)
 
-sender_email="ritamchatterjee108@gmail.com"
-receiver_email="ritamchatterjee108@gmail.com"
+sender_email="msangita426@gmail.com"
+receiver_email="msangita426@gmail.com"
 password="eqfedpdaqqwyfxtf"
 m="Your driver is drowsy"
 mixer.init()
